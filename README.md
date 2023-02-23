@@ -4,9 +4,10 @@
 Practice space for using the Github Workflow.
 
 Participants:
-Ben Coleman
-Orlando Rodriguez
-Carlton Reyes - reyesc02@moravian.edu
+** Ben Coleman
+** Orlando Rodriguez
+** Carlton Reyes - reyesc02@moravian.edu
+
 
 ## Setup
 
